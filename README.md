@@ -9,10 +9,10 @@ The experiment will be considered successful if:
 I'm an absolute zero when it comes to making games, but I did draw a little before.
 
 To achieve these goals, I'll be using:
-Lmms for music and soundtracks.
-Photomind for drawing sprites.
-Godot as a game engine.
-YouTube for learning and practice.
+1) Lmms for music and soundtracks.
+2) Photomind for drawing sprites.
+3) Godot as a game engine.
+4) YouTube for learning and practice.
 
 To make better use of my time, I will be using a deep-seek neural network, but only for consulting and planning purposes. No AI will be used in the game's creation.
 I will also publish my developments and achievements in the experiment in this repository.
