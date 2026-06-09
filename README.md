@@ -16,3 +16,10 @@ To achieve these goals, I'll be using:
 
 To make better use of my time, I will be using a deep-seek neural network, but only for consulting and planning purposes. No AI will be used in the game's creation.
 I will also publish my developments and achievements in the experiment in this repository.
+
+Day 1.
+Today (June 8, 2026) I started drawing sprites and got a little familiar with the Godot engine. I managed to create an animation for the main character and set up his collision and camera. That's all for now.
+
+Day 2.
+Today (June 9, 2026) I managed to create the first level, as well as the main player's movement.
+Yesterday, I was able to add animation to the main character and began drawing the tileset for the game. I had some minor issues, but fortunately they were minor and were resolved fairly quickly. However, this is just the beginning; I think I can finish the game before the end of the two weeks.
