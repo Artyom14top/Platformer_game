@@ -23,3 +23,6 @@ Today (June 8, 2026) I started drawing sprites and got a little familiar with th
 Day 2.
 Today (June 9, 2026) I managed to create the first level, as well as the main player's movement.
 Yesterday, I was able to add animation to the main character and began drawing the tileset for the game. I had some minor issues, but fortunately they were minor and were resolved fairly quickly. However, this is just the beginning; I think I can finish the game before the end of the two weeks.
+Day 3.
+June 10,2026.
+I didn't create much today; I mostly just reworked a level rather than added anything to the game. But overall, I plan to add the core mechanics to the game tomorrow.
