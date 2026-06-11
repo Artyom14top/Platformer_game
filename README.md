@@ -27,3 +27,7 @@ Yesterday, I was able to add animation to the main character and began drawing t
 Day 3.
 June 10,2026.
 I didn't create much today; I mostly just reworked a level rather than added anything to the game. But overall, I plan to add the core mechanics to the game tomorrow.
+
+Day 4.
+I couldn't add anything to the game today.
+However, I'm thinking of rebuilding the game a bit tomorrow, specifically adding some environment sprites and animation frames for the main character. That's all I've thought about for now.
