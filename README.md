@@ -34,5 +34,7 @@ I couldn't add anything to the game today.
 However, I'm thinking of rebuilding the game a bit tomorrow, specifically adding some environment sprites and animation frames for the main character. That's all I've thought about for now.
 
 !!!
+
 I stop the experiment for a while.
+
 !!!
