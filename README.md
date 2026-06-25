@@ -32,3 +32,7 @@ I didn't create much today; I mostly just reworked a level rather than added any
 Day 4.
 I couldn't add anything to the game today.
 However, I'm thinking of rebuilding the game a bit tomorrow, specifically adding some environment sprites and animation frames for the main character. That's all I've thought about for now.
+
+!!!
+I stop the experiment for a while.
+!!!
